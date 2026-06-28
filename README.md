@@ -1,6 +1,3 @@
-🖥️ Full-Stack Developer | 🚀 Backend Enthusiast
-💡 Passionate about building real-world systems & APIs
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rafi+Bakhtiar+👋;Backend+Developer;Golang+%7C+PHP+%7C+Laravel;Always+learning+new+things!" alt="Typing SVG" />
 </div>
