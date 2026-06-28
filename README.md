@@ -64,7 +64,6 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=RafiBakhtiar23&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
