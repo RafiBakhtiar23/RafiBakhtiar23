@@ -3,6 +3,20 @@
 🖥️ Full-Stack Developer | 🚀 Backend Enthusiast
 💡 Passionate about building real-world systems & APIs
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rafi+Bakhtiar+👋;Backend+Developer;Golang+%7C+PHP+%7C+Laravel;Always+learning+new+things!" alt="Typing SVG" />
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+🎓 Fresh Graduate — actively looking for **Backend / Golang Developer** roles  
+🔭 Currently working on **REST API projects with Golang**  
+🌱 Learning **Clean Architecture & Microservices**  
+💬 Ask me about **Go, PHP, Laravel, PostgreSQL**  
+📫 Reach me at: **rafibakkhtiar@gmail.com**
+
 ---
 
 ## ⚡ Skills & Technologies
@@ -30,18 +44,35 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-FF6C37?style=flat&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FF6C37?style=flat&logoColor=white)
 
 ### 🤖 AI Tools
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
 ![9Router](https://img.shields.io/badge/9Router-6366F1?style=flat&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafiBakhtiar23&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafiBakhtiar23&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafiBakhtiar23&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafiBakhtiar23&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafiBakhtiar23&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=RafiBakhtiar23&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RafiBakhtiar23&color=00ADD8&style=flat" alt="Profile views"/>
+</div>
