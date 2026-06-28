@@ -1,5 +1,3 @@
-### 👋 Hi there, I'm Rafi Bakhtiar
-
 🖥️ Full-Stack Developer | 🚀 Backend Enthusiast
 💡 Passionate about building real-world systems & APIs
 
