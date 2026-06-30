@@ -7,10 +7,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 Fresh Graduate in **Software Engineering**
-- 💼 Looking for **Junior Backend Developer / Golang Developer opportunities**
+- 💼 Looking for **Junior Software Engineer / Junior Backend Developer / Golang Developer opportunities**
 - 🔭 Currently working on **REST API projects with Golang**
 - 🌱 Learning **Clean Architecture & Microservices**
-- 🛠️ Interested in **Backend Engineering & Software Developer**
+- 🛠️ Interested in **Backend Engineering & Software Engineer**
 - 📫 Reach me at: **rafibakkhtiar@gmail.com**
 
 ---
