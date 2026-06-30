@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 Fresh Graduate in **Software Engineering**
+🎓 Fresh Graduate in **Software Engineering** 
 💼 Looking for **Junior Backend Developer / Golang Developer opportunities**
 🔭 Currently working on **REST API projects with Golang**  
 🌱 Learning **Clean Architecture & Microservices**  
